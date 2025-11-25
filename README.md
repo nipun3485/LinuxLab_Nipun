@@ -83,13 +83,13 @@ Advanced shell scripting tasks:
 
 ---
 
-## 🧑‍💻 Author
+##  Author
 **Nipun Singh**  
 Linux Lab – UPES School of Computer Science  
 
 ---
 
-## ✔ Purpose
+##  Purpose
 This repository serves as a documentation and practical demonstration of fundamental Linux concepts, commands, and shell scripting techniques essential for system administration and automation.
 
 
