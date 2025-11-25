@@ -5,9 +5,9 @@ Each experiment includes objectives, commands used, detailed procedures, shell s
 
 ---
 
-## 📘 Experiments Covered
+##  Experiments Covered
 
-### **🔹 Experiment 01 – File and Directory Commands**
+### ** Experiment 01 – File and Directory Commands**
 This experiment introduces basic Linux commands for handling files and directories.  
 Topics include:
 - Navigating directories
@@ -17,7 +17,7 @@ Topics include:
 
 ---
 
-### **🔹 Experiment 02 – File Permissions**
+### ** Experiment 02 – File Permissions**
 Focuses on understanding permissions such as read, write, and execute.  
 Tasks include:
 - Creating files and checking default permissions
@@ -26,7 +26,7 @@ Tasks include:
 
 ---
 
-### **🔹 Experiment 03 – Filters and Text Processing**
+### ** Experiment 03 – Filters and Text Processing**
 This experiment covers Linux text-processing utilities used for filtering and analyzing text.  
 Commands include:
 - `cat`, `head`, `tail`
@@ -36,7 +36,7 @@ Commands include:
 
 ---
 
-### **🔹 Experiment 04 – Shell Scripting Basics**
+### ** Experiment 04 – Shell Scripting Basics**
 Introduces basic shell scripting concepts.  
 Topics include:
 - Creating and executing shell scripts
@@ -46,7 +46,7 @@ Topics include:
 
 ---
 
-### **🔹 Experiment 05 – Shell Script Programs (Prime, Armstrong, Sum of Digits)**
+### **Experiment 05 – Shell Script Programs (Prime, Armstrong, Sum of Digits)**
 A set of mathematical programming tasks implemented using shell scripts:
 - Checking if a number is prime
 - Calculating sum of digits
@@ -55,7 +55,7 @@ Each task demonstrates loops, arithmetic, and conditional checks.
 
 ---
 
-### **🔹 Experiment 06 – Palindrome, GCD/LCM, Sorting**
+### ** Experiment 06 – Palindrome, GCD/LCM, Sorting**
 Contains three shell scripting tasks:
 1. Checking if a number is palindrome  
 2. Calculating GCD and LCM of two numbers  
@@ -64,7 +64,7 @@ This experiment enhances understanding of loops, arrays, and arithmetic logic.
 
 ---
 
-### **🔹 Experiment 07 – File Handling, Process & Scheduling Scripts**
+### ** Experiment 07 – File Handling, Process & Scheduling Scripts**
 Combined tasks involving shell scripting concepts such as:
 - Checking if a file exists and optionally creating it  
 - Printing numbers using loops  
@@ -74,7 +74,7 @@ This improves command-line automation and logical scripting skills.
 
 ---
 
-### **🔹 Experiment 08 – File Permissions, String Operations, Pattern Search, System Info**
+### ** Experiment 08 – File Permissions, String Operations, Pattern Search, System Info**
 Advanced shell scripting tasks:
 - Checking file permissions using test operators  
 - Performing string operations (length, concatenation, comparison)  
