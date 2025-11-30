@@ -8,7 +8,7 @@ To understand shell scripting techniques for interacting with users, handling te
 ## Task 1 – Split a Sentence into Words
 
 ### Script Name
-split_words.sh
+split_word.sh
 
 ### Description
 This script:
@@ -17,11 +17,11 @@ This script:
 - Prints each word on a separate line
 
 ### Output Screenshot
-![Split Words Output](split_words.png)
+![Split Words Output](split_word.png)
 
 ### How to Run
-chmod +x split_words.sh
-./split_words.sh
+chmod +x split_word.sh
+./split_word.sh
 
 
 ---
@@ -29,7 +29,7 @@ chmod +x split_words.sh
 ## Task 2 – Split Words Using Custom IFS
 
 ### Script Name
-split_words_custom.sh
+split_custom.sh
 
 ### Description
 This script:
@@ -42,8 +42,8 @@ This script:
 ![Split Words Custom IFS Output](split_custom.png)
 
 ### How to Run
-chmod +x split_words.sh
-./split_words.sh
+chmod +x split_custom.sh
+./split_custom.sh
 
 
 ---
